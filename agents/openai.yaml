@@ -1,0 +1,4 @@
+interface:
+  display_name: "CHN House Style"
+  short_description: "John’s CHN research, captions, video and audio style"
+  default_prompt: "Use $chn-house-style to apply the approved CHN conventions to this episode."
